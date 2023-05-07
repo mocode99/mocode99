@@ -96,7 +96,6 @@ Hi, I'm Mohammed Hussien Nassary !
 
 ## <a href="https://github.com/Nassary"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
 
-<br/>
 <summary><b>⚡ Mohamed Hussien's Stats</b></summary>
 <br/>
 <p align="center">
