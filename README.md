@@ -1,4 +1,3 @@
-
 <h1 align="center">
 Hi, I'm Mohammed Hussien Nassary !
 	<a href="https://github.com/Nassary" target="_self">
@@ -59,12 +58,9 @@ Hi, I'm Mohammed Hussien Nassary !
 <p>
     <a href="https://github.com/Nassary">
    </a>
-   
-    <a href="https://github.com/Nassary">
-    <a href="https://github.com/Nassary"></a>
-    <a href="https://github.com/Nassary"></a>
-    <a href="https://github.com/Nassary"></a>
     <a href="https://github.com/Nassary"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?logo=Bootstrap&logoColor=white"></a>
+	    <a href="https://github.com/Nassary"><img alt="react" src="https://img.shields.io/badge/react%20-%23150458.svg?logo=react&logoColor=white"></a>
+
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
@@ -102,7 +98,7 @@ Hi, I'm Mohammed Hussien Nassary !
 <br/>
 <p align="center">
 	<a href="https://github.com/Nassary">
-	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Nassary&show_icons=true" alt="Nassary">
+	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=Mohamed%20Hussien%20&theme=radical" alt="Nassary">
 	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=Mohamed%20Hussien%20&theme=radical" alt="Nassary">
 	</a>
 	<br/>
