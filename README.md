@@ -1,3 +1,4 @@
+
 <h1 align="center">
 Hi, I'm Mohammed Hussien Nassary !
 	<a href="https://github.com/Nassary" target="_self">
@@ -125,11 +126,9 @@ Hi, I'm Mohammed Hussien Nassary !
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouaskaoun&langs_count=8&layout=compact" alt="Nassary">
 	</a>
 	
-	<br/>
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
-<br/>
 <!-- 
 <a href="https://github-readme-streak-stats.herokuapp.com?user=Mohamed%20Hussien&theme=radical"></a> -->
 <!-- 
@@ -152,10 +151,6 @@ You can hire me as a freelancer on <a href="https://www.fiverr.com">Fiverr</a> o
 
 “I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
 – Elon Musk
-
-  </td>
-  </tr>
-</table> -->
 
  <a href="https://github-readme-streak-stats.herokuapp.com?user=Mohamed%20Hussien&theme=radical)](https://git.io/streak-stats">
 
